@@ -1,12 +1,12 @@
 #!/bin/bash
 ################################################################################
-# Author:   crombiecrunch
+# Author:   admin@cool-pol.net
 # 
-# Web:      www.thecryptopool.com
+# Web:      cool-pool.net
 #
 # Program:
-#   Install yiimp on Ubuntu 16.04 running Nginx, MariaDB, and php7.x
-# BTC Donation: 1HUruZMcSben39E27cyLwsTrk6bbWZs3po
+#   Install yiimp on Ubuntu 18.04 running Nginx, MariaDB, and php7.x
+# BTC Donation: 3BH9aSXZSz4ivTTLe3knkA35xwzYynJpFQ
 # 
 ################################################################################
 output() {
