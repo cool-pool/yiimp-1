@@ -1,6 +1,6 @@
 # yiimp
-Install script for yiimp on Ubuntu 16.04
-This script will install yimmp on your Ubuntu 16.04 system. 
+Install script for yiimp on Ubuntu 18.04
+This script will install yimmp on your Ubuntu 18.04 system. 
 
 Before running this script make sure you are on a fresh server and running as a user. Do not run this script under root!
 
@@ -21,6 +21,6 @@ bash install.sh
 
 You will be prompted for email, FDQN, and time zone. You onkly get one shot to enter this information correctly!
 
-If this helped you or you feel giving please donate BTC Donation: 1AxK9a7dgeHvf3VFuwZ2adGiQTX6S1nhrp
+If this helped you or you feel giving please donate BTC Donation: 3BH9aSXZSz4ivTTLe3knkA35xwzYynJpFQ
 
-Crombie Crunch
+
