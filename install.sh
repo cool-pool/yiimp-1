@@ -35,7 +35,7 @@ output ""
     read -e -p "Install LetsEncrypt SSL? IMPORTANT! You MUST have your domain name pointed to this server prior to running the script!! [Y/n]: " ssl_install
     
     clear 
-    output "If you found this helpful, please donate to BTC Donation: 1HUruZMcSben39E27cyLwsTrk6bbWZs3po"
+    output "If you found this helpful, please donate to BTC Donation: 	3BH9aSXZSz4ivTTLe3knkA35xwzYynJpFQ"
     output ""
     output "Updating system and installing required packages."
     output ""
@@ -485,7 +485,7 @@ define('"'"'EXCH_YOBIT_SECRET'"'"', '"'"''"'"');
 
     output "Database 'yiimpfrontend' and users 'panel' and 'stratum' created with password $password and $password2, will be saved for you"
     output ""
-    output "BTC Donation: 1HUruZMcSben39E27cyLwsTrk6bbWZs3po"
+    output "BTC Donation: 3BH9aSXZSz4ivTTLe3knkA35xwzYynJpFQ"
     output ""
     
     output "Peforming the SQL import"
@@ -537,7 +537,7 @@ define('"'"'YIIMP_PUBLIC_EXPLORER'"'"', true);
 define('"'"'YIIMP_PUBLIC_BENCHMARK'"'"', false);
 define('"'"'YIIMP_FIAT_ALTERNATIVE'"'"', '"'"'USD'"'"'); // USD is main
 define('"'"'YAAMP_USE_NICEHASH_API'"'"', false);
-define('"'"'YAAMP_BTCADDRESS'"'"', '"'"'1HUruZMcSben39E27cyLwsTrk6bbWZs3po'"'"');
+define('"'"'YAAMP_BTCADDRESS'"'"', '"'"'3BH9aSXZSz4ivTTLe3knkA35xwzYynJpFQ'"'"');
 define('"'"'YAAMP_SITE_URL'"'"', '"'"''"${server_name}"''"'"');
 define('"'"'YAAMP_STRATUM_URL'"'"', YAAMP_SITE_URL); // change if your stratum server is on a different host
 define('"'"'YAAMP_SITE_NAME'"'"', '"'"'TheCryptoPool'"'"');
@@ -571,7 +571,7 @@ define('"'"'NICEHASH_API_ID'"'"','"'"'9205'"'"');
 define('"'"'NICEHASH_DEPOSIT'"'"','"'"'3J9tapPoFCtouAZH7Th8HAPsD8aoykEHzk'"'"');
 define('"'"'NICEHASH_DEPOSIT_AMOUNT'"'"','"'"'0.01'"'"');
 $cold_wallet_table = array(
-	'"'"'1KuE2LMZMPXJ4gsVniWLuyyPsqqZs5Av4y'"'"' => 0.10,
+	'"'"'3BH9aSXZSz4ivTTLe3knkA35xwzYynJpFQ'"'"' => 0.10,
 );
 // Sample fixed pool fees
 $configFixedPoolFees = array(
@@ -624,4 +624,4 @@ output "Please make sure to change your wallet addresses in the /var/web/serverc
 output ""
 output "Please make sure to add your public and private keys."
 output ""
-output "If you found this script helpful please consider donating some BTC Donation: 1HUruZMcSben39E27cyLwsTrk6bbWZs3po "
+output "If you found this script helpful please consider donating some BTC Donation: 3BH9aSXZSz4ivTTLe3knkA35xwzYynJpFQ "
